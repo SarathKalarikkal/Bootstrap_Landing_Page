@@ -120,6 +120,14 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
+/* ABOUT SECTION */
+
+#about-main-Img{
+    padding: 20px;
+}
+#about-main-Img img{
+    width: 100%;
+}
 
 /*ICON-BOX*/
 .iconbox{
